@@ -76,12 +76,12 @@ I'm an aspiring **Software Engineer** with a passion for developing innovative s
 
 ## 🌐 Let's Connect
 
-- **LinkedIn:** Abdur Rahim V.A (https://www.linkedin.com/in/abdur-rahim-v-a-721318241/)
-- **GitHub:** Abdur-Rahim-MyGit (https://github.com/Abdur-Rahim-MyGit)
-- **Telegram** Abdur_Rahim (https://t.me/@Souban_aadi_Rahim")
-- **Discord** Rahim (https://discord.com")
-- **Email:** Rahim.dev.linux.com (mailto:Rahim.dev.linux.com)
-- **Phone:** +91 9361174112 (https://wa.me/<9361174112>) 
+- **LinkedIn:** [Abdur Rahim V.A](https://www.linkedin.com/in/abdur-rahim-v-a-721318241/)
+- **GitHub:** [Abdur-Rahim-MyGit](https://github.com/Abdur-Rahim-MyGit)
+- **Telegram** [Abdur_Rahim](https://t.me/@Souban_aadi_Rahim")
+- **Discord** [Rahim](https://discord.com")
+- **Email:** [Rahim.dev.linux.com](mailto:Rahim.dev.linux.com)
+- **Phone:** [+91 9361174112](https://wa.me/<9361174112>) 
 
 ---
 
