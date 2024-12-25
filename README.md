@@ -76,12 +76,11 @@ I'm an aspiring **Software Engineer** with a passion for developing innovative s
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rahim-v-a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdur-rahim-v-a)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:31120u18001@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdur-rahim-v-a)  
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919361174112)  
-
+[<img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin-circled.png" alt="LinkedIn" width="40px"/>](https://www.linkedin.com/in/abdur-rahim-v-a/)  
+[<img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40px"/>](https://github.com/abdur-rahim-v-a)  
+[<img src="https://img.icons8.com/ios-filled/50/d14836/email.png" alt="Email" width="40px"/>](mailto:31120u18001@gmail.com)  
+[<img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="40px"/>](https://twitter.com/abdur-rahim-v-a)  
+[<img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" alt="WhatsApp" width="40px"/>](tel:+919361174112)  
 
 - **LinkedIn:** [abdur-rahim-v-a](#)
 - **GitHub:** [abdur-rahim-v-a](#)
