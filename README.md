@@ -6,8 +6,7 @@
 
 ## 🌟 **About Me**
 
-[![Portfolio](https://via.placeholder.com/300x50?text=🌐+Visit+Portfolio)](https://abdur-rahim-mygit.github.io/Portfolio_Rahim/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdur-rahim-mygit.github.io/Portfolio_Rahim/)
 
 I'm an aspiring **Software Engineer** with expertise in **Java**, **Backend Development**, & **Web Technologies**. 
 My goal is to craft innovative solutions that make a difference.  
