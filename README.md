@@ -76,13 +76,13 @@ I'm an aspiring **Software Engineer** with a passion for developing innovative s
 
 ## 🌐 Let's Connect
 
-[<img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin-circled.png" alt="LinkedIn" width="40px"/>](https://www.linkedin.com/in/abdur-rahim-v-a/)  
+- **LinkedIn:** [abdur-rahim-v-a](https://www.linkedin.com/in/abdur-rahim-v-a-721318241/)[<img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin-circled.png" alt="LinkedIn" width="40px"/>](https://www.linkedin.com/in/abdur-rahim-v-a-721318241/)  
 [<img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40px"/>](https://github.com/abdur-rahim-v-a)  
 [<img src="https://img.icons8.com/ios-filled/50/d14836/email.png" alt="Email" width="40px"/>](mailto:31120u18001@gmail.com)  
 [<img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter" width="40px"/>](https://twitter.com/abdur-rahim-v-a)  
 [<img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" alt="WhatsApp" width="40px"/>](tel:+919361174112)  
 
-- **LinkedIn:** [abdur-rahim-v-a](#)
+
 - **GitHub:** [abdur-rahim-v-a](#)
 - **Email:** 31120u18001@gmail.com
 - **Phone:** +91 9361174112
