@@ -1,82 +1,82 @@
-# Hi there! 👋 I'm Abdur Rahim V.A  
-### 🚀 Aspiring Software Engineer | MCA Student | Tech Enthusiast  
+# Hi there! 👋 I'm Abdur Rahim V.A
+
+## 🚀 About Me
+I'm an aspiring **Software Engineer** with a passion for developing innovative solutions using modern technologies. With a strong foundation in **Java**, **backend development**, and **web technologies**, I am focused on contributing to impactful projects that make a difference.
 
 ---
 
-## 🌟 About Me  
-I'm an enthusiastic **MCA student** passionate about **technology** and **innovation**. My goal is to excel as a **Software Engineer** by mastering **modern tech stacks** and contributing to impactful projects.  
+## 🛠️ Technical Skills
 
-- 📚 Currently pursuing **MCA** at **MEASI Institute of Information Technology**, Chennai.  
-- 🌱 Learning and implementing **Data Structures and Algorithms (DSA)** and **MERN Stack Development**.  
-- 👯 Open to collaborating on **Machine Learning (ML)** and **Artificial Intelligence (AI)** projects.  
-- 🤔 Seeking mentorship and opportunities to prepare for placements in **top tech companies (FAANG)**.  
-- 💬 Ask me about **web development**, **backend technologies**, or **UI/UX design**.  
-- 😄 Pronouns: **Techie**  
-- 🎲 Fun fact: I’m obsessed with **sorting visualizations** and exploring innovative solutions!  
+### Programming Languages
+- Java, Python, JavaScript, HTML, CSS
 
----
+### Frameworks & Technologies
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- RESTful APIs, Spring Boot
 
-## 🛠️ Technologies I Work With  
-
-### **Programming Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### **Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+### Tools & Platforms
+- Linux, Git, Postman, Docker, XAMPP
+- Figma (UI/UX Design)
 
 ---
 
-## 🔥 My Current Projects  
-
-### **1. Sorting Algorithm Visualizer**  
-🔍 *An interactive tool for visualizing sorting algorithms like Quick Sort, Merge Sort, and Heap Sort.*  
-- **Features:**  
-  - Real-time animations  
-  - User-friendly UI  
-  - Adjustable array sizes and speeds  
-- **Impact:** Simplifies understanding of algorithms through interactive visuals.  
-
-### **2. AI-Driven IoT Car**  
-🚗 *A smart IoT car integrated with features like voice commands, object detection, and Bluetooth control.*  
-- **Features:**  
-  - Voice command recognition  
-  - Sensor-based navigation  
-  - Manual and automated control modes  
-- **Impact:** Showcases AI and IoT integration for mobility solutions.  
-
-### **3. Islamiah College LMS**  
-📚 *A web-based platform to streamline academic workflows for students and staff.*  
-- **Features:**  
-  - Assignment and grade management  
-  - Secure role-based access control  
-  - User-friendly design for seamless navigation  
-- **Impact:** Enhances collaboration and academic efficiency.  
+## 🌟 Strengths
+- Strong leadership and organizational skills.
+- Effective problem-solving abilities with attention to detail.
+- Collaborative team player with excellent communication skills.
+- Quick learner, always eager to explore new technologies.
 
 ---
 
-## 📊 GitHub Stats  
-![Abdur Rahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdur-rahim-v-a&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdur-rahim-v-a&layout=compact&theme=radical)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdur-rahim-v-a&theme=radical)  
+## 📂 Projects
+
+### **AI-Driven IoT Car**
+- **Description:** An innovative IoT car with AI capabilities for intelligent and user-friendly interaction.
+- **Features:** 
+  - Voice command recognition, object avoidance, and human tracking.
+  - Manual and Bluetooth-based control with sensor-guided navigation.
+- **Impact:** Showcased cutting-edge AI and IoT integration for mobility solutions.
+
+### **Islamiah College Learning Management System (ICLMS)**
+- **Description:** A web-based platform to streamline academic workflows for students and staff.
+- **Features:**
+  - Assignment management, secure data handling, and role-based access control.
+- **Impact:** Revolutionized academic processes and increased collaboration efficiency.
+
+### **Sorting Algorithm Visualizer**
+- **Description:** A web application to visualize sorting algorithms like Bubble Sort, Quick Sort, and more.
+- **Features:** 
+  - Real-time animations, user-friendly UI, and customizable array sizes and speeds.
+- **Impact:** Enhanced understanding of algorithmic concepts through interactive visuals.
 
 ---
 
-## 🌐 Let's Connect!  
-- **LinkedIn:** [Abdur Rahim V.A](#)  
-- **GitHub:** [Abdur Rahim V.A](#)  
-- **Email:** 31120u18001@gmail.com  
-- **Phone:** +91 9361174112  
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+- MEASI Institute of Information Technology, Chennai  
+- **Duration:** 2023 - Present  
+
+**Bachelor of Computer Applications (BCA)**  
+- Islamiah Arts & Science College, Vaniyambadi  
+- **Duration:** 2020 - 2023  
 
 ---
 
-✨ *Thank you for visiting my profile!* Let’s collaborate and create something extraordinary! 🚀  
+## 🏆 Achievements
+- Consistently scored 90% and above in Tamil across all semesters.
+- Organized multiple college fest events showcasing event management and leadership skills.
+- Served as Class Representative during undergraduate studies.
+- Won multiple college fest competitions and actively volunteered in campus activities.
+
+---
+
+## 🌐 Let's Connect
+- **LinkedIn:** [abdur-rahim-v-a](#)
+- **GitHub:** [abdur-rahim-v-a](#)
+- **Email:** 31120u18001@gmail.com
+- **Phone:** +91 9361174112
+
+---
+
+Thank you for visiting my profile! 😊 Let's build something amazing together!
