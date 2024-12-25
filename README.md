@@ -8,7 +8,7 @@ I'm an aspiring **Software Engineer** with a passion for developing innovative s
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- Java, Python, JavaScript, HTML, CSS, Bash, SQL & Javascript Frameworks
+- Java, Python, JavaScript, HTML, CSS, Bash, SQL & othe Frameworks
 
 ### Frameworks & Technologies
 - MERN Stack (MongoDB, Express.js, React.js, Node.js)
