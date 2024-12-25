@@ -1,5 +1,3 @@
----
-
 # Hi there! 👋 I'm **Abdur Rahim V.A**
 
 > 🚀 *"Building tomorrow's technology, today!"*
@@ -82,4 +80,3 @@ I'm an aspiring **Software Engineer** with expertise in **Java**, **backend deve
 
 ---
 
-You can enhance this further by adding GIFs or custom banners for each section to simulate sliding effects. Let me know if you'd like to create some banners or animations!
