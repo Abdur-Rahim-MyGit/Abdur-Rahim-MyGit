@@ -80,6 +80,7 @@ I'm an aspiring **Software Engineer** with a passion for developing innovative s
 - **GitHub:** [Abdur-Rahim-MyGit](https://github.com/Abdur-Rahim-MyGit)
 - **Telegram** [Abdur_Rahim](https://t.me/@Souban_aadi_Rahim")
 - **Discord** [Rahim](https://discord.com")
+- **Instagram** [Souban Aadi](https://instagram.com/<@_souban_aadi_>)
 - **Email:** [Rahim.dev.linux.com](mailto:Rahim.dev.linux.com)
 - **Phone:** [+91 9361174112](https://wa.me/<9361174112>) 
 
