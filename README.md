@@ -7,7 +7,7 @@
 ## 🌟 **About Me**
 
 <a align="right" href="https://github.com/Abdur-Rahim-MyGit/Abdur-Rahim-MyGit"> 🌐 Portfolio </a>
-<img align="right" src="https://img.icons8.com/color/96/000000/software-engineer.png" width="120" alt="Software Engineer Icon"/>
+<img align="right"  src="https://github.com/Abdur-Rahim-MyGit/Abdur-Rahim-MyGit" width="120" alt="Software Engineer Icon"/>
 
 I'm an aspiring **Software Engineer** with expertise in **Java**, **Backend Development**, & **Web Technologies**. 
 My goal is to craft innovative solutions that make a difference.  
