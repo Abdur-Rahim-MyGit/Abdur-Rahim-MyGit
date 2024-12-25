@@ -74,13 +74,13 @@ I'm an aspiring **Software Engineer** with expertise in **Java**, **backend deve
 
 | **Platform**     | **Link**                                                                                 |
 |-------------------|-----------------------------------------------------------------------------------------|
-| LinkedIn          | [Abdur Rahim V.A](https://www.linkedin.com/in/abdur-rahim-v-a-721318241/)               |
-| Email             | [Rahim.dev.linux.com](mailto:Rahim.dev.linux.com)                                       |
-| WhatsApp          | [+91 9361174112](https://wa.me/9361174112)                                             |
-| GitHub            | [Abdur-Rahim-MyGit](https://github.com/Abdur-Rahim-MyGit)                               |
-| Telegram          | [Abdur_Rahim](https://t.me/@Souban_aadi_Rahim)                                          |
-| Discord           | [Rahim](https://discord.com)                                                           |
-| Instagram         | [Souban Aadi](https://instagram.com/@_souban_aadi_)                                     |
+| LinkedIn          | [ Abdur Rahim_V_A ](https://www.linkedin.com/in/abdur-rahim-v-a-721318241/)               |
+| Email             | [ Rahim.dev.linux@gmail.com ](mailto:Rahim.dev.linux@gmailcom)                                       |
+| WhatsApp          | [ +91 9361174112 ](https://wa.me/9361174112)                                             |
+| GitHub            | [ Abdur-Rahim-MyGit](https://github.com/Abdur-Rahim-MyGit)                               |
+| Telegram          | [ Abdur_Rahim](https://t.me/@Souban_aadi_Rahim)                                          |
+| Discord           | [ Rahim_Space ](https://discord.com)                                                           |
+| Instagram         | [ @_Souban_Aadi_](https://instagram.com/@_souban_aadi_)                                     |
 
 
 ---
