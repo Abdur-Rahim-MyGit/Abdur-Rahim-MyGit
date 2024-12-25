@@ -96,35 +96,73 @@ Thank you for visiting my profile! 😊 Let's build something amazing together!
 ## 🛠️ IDEs and Tools I Use  
 
 <p align="left">
+  <!-- Android Studio -->
   <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png" alt="Android Studio" width="40" height="40"/>
   </a>
+  <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
   </a>
+  <!-- IntelliJ IDEA -->
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
+  <!-- Eclipse -->
   <a href="https://www.eclipse.org/" target="_blank">
     <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" alt="Eclipse" width="40" height="40"/>
   </a>
+  <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/>
   </a>
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   </a>
+  <!-- Postman -->
   <a href="https://postman.com/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>
   </a>
+  <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
   </a>
+  <!-- Linux -->
   <a href="https://linuxmint.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linux-mint.png" alt="Linux" width="40" height="40"/>
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  </a>
+  <!-- Java -->
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+  </a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
+  </a>
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.icons8.com/office/40/000000/react.png" alt="React" width="40" height="40"/>
+  </a>
+  <!-- Spring Boot -->
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" width="40" height="40"/>
   </a>
 </p>
 
 ---
+
 
 
