@@ -14,36 +14,44 @@ I'm an aspiring **Software Engineer** with expertise in **Java**, **backend deve
 
 ---
 
-## 🔧 **Technical Skills**
+## 🛠️ Technical Skills
 
-### 👨‍💻 Programming Languages
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![SQL](https://img.icons8.com/color/48/000000/database.png)
+### Programming Languages
+- Java, Python, JavaScript, HTML, CSS, Bash & SQL.
 
----
+### Frameworks & Technologies
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- Postman API's, Spring Boot, System Design, Bootstrap
 
-### 🛠 Frameworks & Tools
-![React](https://img.icons8.com/office/40/000000/react.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
-![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+### Back-End Technologies
+- Sql, Node.js, No-Sql, Java
+
+### Tools & Platforms
+- Linux, Git, Postman, Docker, XAMPP, AWS, Machine Learning 
+- Figma (UI/UX Design), Canva, Adobe PhotoShop  
 
 ---
 
 ## 📂 **Projects**
 
-### 🛠️ **AI-Driven IoT Car**
-![IoT Car](https://via.placeholder.com/400x200.png?text=AI-Driven+IoT+Car)
-> **Features:**  
-> - Voice command recognition & object avoidance.  
-> - Manual & Bluetooth-based control.  
-> **Impact:** Demonstrates cutting-edge **AI + IoT** mobility solutions.
+### **AI-Driven IoT Car**
+- **Description:** An innovative IoT car with AI capabilities for intelligent and user-friendly interaction.
+- **Features:** 
+  - Voice command recognition, object avoidance, and human tracking.
+  - Manual and Bluetooth-based control with sensor-guided navigation.
+- **Impact:** Showcased cutting-edge AI and IoT integration for mobility solutions.
+
+### **Islamiah College Learning Management System (ICLMS)**
+- **Description:** A web-based platform to streamline academic workflows for students and staff.
+- **Features:**
+  - Assignment management, secure data handling, and role-based access control.
+- **Impact:** Revolutionized academic processes and increased collaboration efficiency.
+
+### **Sorting Algorithm Visualizer**
+- **Description:** A web application to visualize sorting algorithms like Bubble Sort, Quick Sort, and more.
+- **Features:** 
+  - Real-time animations, user-friendly UI, and customizable array sizes and speeds.
+- **Impact:** Enhanced understanding of algorithmic concepts through interactive visuals.
 
 ---
 
