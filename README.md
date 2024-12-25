@@ -11,7 +11,7 @@
 I'm an aspiring **Software Engineer** with expertise in **Java**, **Backend Development**, & **Web Technologies**. 
 My goal is to craft innovative solutions that make a difference.  
 
-💡 **Fun Fact:** *Coffee-Powered Programmer ☕ 90% of my code runs on caffeine; the other 10% runs on hope.*
+💡 **Fun Fact:** *Coffee-Powered Programmer : ☕ 90% of my code runs on caffeine; the other 10% runs on hope.*
 
 ---
 
