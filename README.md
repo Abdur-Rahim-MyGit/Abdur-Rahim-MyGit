@@ -6,11 +6,8 @@
 
 ## 🌟 **About Me**
 
-<div style="text-align: right;">
-  <a href="https://abdur-rahim-mygit.github.io/Portfolio_Rahim/" style="text-decoration: none; font-size: 18px; color: #0366d6;">
-    🌐 Portfolio
-  </a>
-</div>
+[![Portfolio](https://via.placeholder.com/300x50?text=🌐+Visit+Portfolio)](https://abdur-rahim-mygit.github.io/Portfolio_Rahim/)
+
 
 I'm an aspiring **Software Engineer** with expertise in **Java**, **Backend Development**, & **Web Technologies**. 
 My goal is to craft innovative solutions that make a difference.  
