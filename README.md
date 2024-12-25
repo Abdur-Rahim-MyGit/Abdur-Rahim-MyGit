@@ -7,7 +7,7 @@
 ## 🌟 **About Me**
 
 <a align="left" href="https://abdur-rahim-mygit.github.io/Portfolio_Rahim/" width="120" alt="Souban Portfolio"> 🌐 Portfolio </a>
-<img align="right"  src="https://www.flaticon.com/free-icon/link_282100?term=link&page=1&position=19&origin=tag&related_id=282100" width="120" alt="Software Engineer Icon"/>
+<img align="right"  src="https://images.rawpixel.com/image_png_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAyL3Zwcm9qZWN0b2xkMS10YW5nLTExODQtam9iMTcyMi1wLnBuZw.png" width="120" alt="Software Engineer Icon"/>
 
 I'm an aspiring **Software Engineer** with expertise in **Java**, **Backend Development**, & **Web Technologies**. 
 My goal is to craft innovative solutions that make a difference.  
