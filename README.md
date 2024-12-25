@@ -8,15 +8,18 @@ I'm an aspiring **Software Engineer** with a passion for developing innovative s
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-- Java, Python, JavaScript, HTML, CSS
+- Java, Python, JavaScript, HTML, CSS, Bash programming, SQL
 
 ### Frameworks & Technologies
 - MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- RESTful APIs, Spring Boot
+- Postman API's, Spring Boot, System Design
+
+### Back-End Technologies
+- Sql, Node.js, No-Sql, Java, Node.js
 
 ### Tools & Platforms
-- Linux, Git, Postman, Docker, XAMPP
-- Figma (UI/UX Design)
+- Linux, Git, Postman, Docker, XAMPP, AWS,
+- Figma (UI/UX Design), Canva, Adobe PhotoShop  
 
 ---
 
