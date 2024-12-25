@@ -6,7 +6,7 @@
 
 ## 🌟 **About Me**
 
-<a align="right" href="hhttps://abdur-rahim-mygit.github.io/Portfolio_Rahim/" width="120" alt="Souban Portfolio"> 🌐 Portfolio </a>
+<a align="left" href="https://abdur-rahim-mygit.github.io/Portfolio_Rahim/" width="120" alt="Souban Portfolio"> 🌐 Portfolio </a>
 <img align="right"  src="https://abdur-rahim-mygit.github.io/Portfolio_Rahim/" width="120" alt="Software Engineer Icon"/>
 
 I'm an aspiring **Software Engineer** with expertise in **Java**, **Backend Development**, & **Web Technologies**. 
