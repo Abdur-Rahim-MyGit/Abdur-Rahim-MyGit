@@ -15,7 +15,7 @@ I'm an aspiring **Software Engineer** with a passion for developing innovative s
 - Postman API's, Spring Boot, System Design, Bootstrap
 
 ### Back-End Technologies
-- Sql, Node.js, No-Sql, Java, Node.js
+- Sql, Node.js, No-Sql, Java
 
 ### Tools & Platforms
 - Linux, Git, Postman, Docker, XAMPP, AWS, Machine Learning 
