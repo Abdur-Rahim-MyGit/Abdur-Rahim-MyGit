@@ -120,10 +120,6 @@ Thank you for visiting my profile! 😊 Let's build something amazing together!
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   </a>
-  <!-- Postman -->
-  <a href="https://postman.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>
-  </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
