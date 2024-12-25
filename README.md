@@ -90,3 +90,41 @@ I'm an aspiring **Software Engineer** with a passion for developing innovative s
 ---
 
 Thank you for visiting my profile! 😊 Let's build something amazing together!
+
+---
+
+## 🛠️ IDEs and Tools I Use  
+
+<p align="left">
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/android-studio--v3.png" alt="Android Studio" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="40" height="40"/>
+  </a>
+  <a href="https://www.eclipse.org/" target="_blank">
+    <img src="https://img.icons8.com/officel/40/000000/java-eclipse.png" alt="Eclipse" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/postman-api.png" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://linuxmint.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linux-mint.png" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+
