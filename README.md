@@ -6,8 +6,12 @@
 
 ## 🌟 **About Me**
 
-<a align="left" href="https://abdur-rahim-mygit.github.io/Portfolio_Rahim/" width="120" alt="Souban Portfolio"> 🌐 Portfolio </a>
-<img align="right"  src="https://images.rawpixel.com/image_png_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAyL3Zwcm9qZWN0b2xkMS10YW5nLTExODQtam9iMTcyMi1wLnBuZw.png" width="120" alt="Software Engineer Icon"/>
+<div style="display: flex; justify-content: flex-end;">
+  <a href="https://abdur-rahim-mygit.github.io/Portfolio_Rahim/" style="text-decoration: none; font-size: 18px; color: #0366d6;">
+    🌐 Portfolio
+  </a>
+</div>
+
 
 I'm an aspiring **Software Engineer** with expertise in **Java**, **Backend Development**, & **Web Technologies**. 
 My goal is to craft innovative solutions that make a difference.  
