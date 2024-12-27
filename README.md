@@ -6,7 +6,7 @@
 ---
 
 <!-- -->
-![Abdur Rahim GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-MyGit&theme=dark&show_icons=true&&hide=issues,contribs)
+![Abdur Rahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-MyGit&theme=gruvbox&show_icons=true&hide=issues,contribs&custom_title=Abdur%20Rahim%20-%20Java%20Developer)
 
 ## 🌟 **About Me**
 
