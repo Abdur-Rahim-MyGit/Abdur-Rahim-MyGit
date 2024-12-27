@@ -5,6 +5,8 @@
 
 ---
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+
 ## 🌟 **About Me**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdur-rahim-mygit.github.io/Portfolio_Rahim/)
