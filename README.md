@@ -5,13 +5,9 @@
 
 ---
 
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2d/29/40/2d2940898055620e0c58128c629d1b8c.gif">
-
+<!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2d/29/40/2d2940898055620e0c58128c629d1b8c.gif"> -->
 
 ## 🌟 **About Me**
-
-<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdur-rahim-mygit.github.io/Portfolio_Rahim/)
 
