@@ -9,7 +9,12 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdur-rahim-mygit.github.io/Portfolio_Rahim/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nilchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="nilchakraborty" /> </p>
+<p align="center">
+  <a href="https://github.com/nilchakraborty" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=nilchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="nilchakraborty" style="border-radius: 12px; padding: 10px 20px; background-color: #0e75b6; color: white; font-weight: bold; font-size: 14px; text-decoration: none; display: inline-block; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+</p>
+
 
 I'm an aspiring **Software Engineer** with expertise in **Java**, **Backend Development**, & **Web Technologies**. 
 My goal is to craft innovative solutions that make a difference.  
