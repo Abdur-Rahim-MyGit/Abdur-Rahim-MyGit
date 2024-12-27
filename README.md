@@ -6,7 +6,6 @@
 ---
 
 <!-- -->
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2d/29/40/2d2940898055620e0c58128c629d1b8c.gif"> 
 
 
 ## 🌟 **About Me**
