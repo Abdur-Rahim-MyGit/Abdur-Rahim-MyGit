@@ -6,7 +6,6 @@
 ---
 
 <!-- -->
-![Abdur Rahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-MyGit&theme=gruvbox&show_icons=true&hide=issues,contribs&custom_title=Abdur%20Rahim%20-%20Java%20Developer)
 
 ## 🌟 **About Me**
 
@@ -90,6 +89,8 @@ My goal is to craft innovative solutions that make a difference.
 | Discord           | [ Rahim_Space ](https://discord.com)                                                           |
 | Instagram         | [ @_Souban_Aadi_](https://instagram.com/@_souban_aadi_)                                     |
 
+
+[![Abdur Rahim GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rahim-MyGit&theme=dark&show_icons=true&&hide=issues,contribs)]
 
 ---
 
