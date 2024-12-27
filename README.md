@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/Abdur-Rahim-MyGit" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=nilchakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="nilchakraborty" style="
+    <img src="https://komarev.com/ghpvc/?username=Abdur-Rahim-MyGit&label=Profile%20views&color=0e75b6&style=flat" alt="nilchakraborty" style="
       background-color: #007bff; 
       border-radius: 50px; 
       padding: 12px 30px; 
